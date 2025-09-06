@@ -1,4 +1,4 @@
-package ai.data.modernization.data;
+package com.ai.data.modernization.data;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

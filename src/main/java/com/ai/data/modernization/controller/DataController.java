@@ -1,11 +1,11 @@
-package ai.data.modernization.controller;
+package com.ai.data.modernization.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import ai.data.modernization.data.Data;
-import ai.data.modernization.service.DataService;
+import com.ai.data.modernization.data.Data;
+import com.ai.data.modernization.service.DataService;
 
 import java.util.List;
 
